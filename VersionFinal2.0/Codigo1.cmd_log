@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "C:/Users/Joselin/Documents/GitHub/ProyectoViernesSistemasDigitales/VersionFinal2.0/Codigo1.xst" -ofn "C:/Users/Joselin/Documents/GitHub/ProyectoViernesSistemasDigitales/VersionFinal2.0/Codigo1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc6slx16-csg324-3 Codigo1.ngc Codigo1.ngd  
